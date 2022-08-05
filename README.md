@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luokuncool&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luokuncool&hide=css,html,smarty,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luokuncool&hide=css,html,smarty,javascript,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luokuncool/luokuncool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
